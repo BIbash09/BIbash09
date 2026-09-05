@@ -6,7 +6,7 @@
 
 📍 Niagara Falls, Ontario, Canada
 
-[LinkedIn](https://www.linkedin.com/in/bibash-gautam/) · [Portfolio](https://github.com/BIbash09/Bibash_portfolio) · [Résumé](https://github.com/BIbash09/Bibash_portfolio/blob/main/public/Bibash_Gautam_Resume.pdf) · [Email](mailto:bibashgautam@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bibash-gautam/) · [Portfolio](https://github.com/BIbash09/Bibash_portfolio) · [Resume](https://github.com/BIbash09/Bibash_portfolio/blob/main/public/Bibash_Gautam_Resume.pdf) · [Email](mailto:bibashgautam@.official@gmail.com)
 
 </div>
 

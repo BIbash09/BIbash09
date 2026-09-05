@@ -1,0 +1,65 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bibash Gautam</title>
+  <desc id="desc">Data Analytics, Business Intelligence, and Business Analysis</desc>
+  <defs>
+    <linearGradient id="background" x1="36" y1="22" x2="1162" y2="307" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07152F"/>
+      <stop offset="0.48" stop-color="#123D78"/>
+      <stop offset="1" stop-color="#5B21B6"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(945 64) rotate(139) scale(405 330)">
+      <stop stop-color="#38BDF8" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(168 308) rotate(-39) scale(470 246)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="white" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glowBlue)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glowPurple)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" stroke="white" stroke-opacity="0.15" stroke-width="2"/>
+
+  <g opacity="0.92">
+    <circle cx="1065" cy="81" r="6" fill="#7DD3FC" filter="url(#softGlow)"/>
+    <circle cx="1007" cy="126" r="4" fill="#C4B5FD"/>
+    <circle cx="1116" cy="151" r="5" fill="#A5F3FC"/>
+    <path d="M890 218L952 166L1007 188L1065 117L1126 143" stroke="#7DD3FC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M890 218L952 166L1007 188L1065 117L1126 143" stroke="white" stroke-opacity="0.24" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="890" cy="218" r="7" fill="#E0F2FE"/>
+    <circle cx="952" cy="166" r="7" fill="#E0F2FE"/>
+    <circle cx="1007" cy="188" r="7" fill="#E0F2FE"/>
+    <circle cx="1065" cy="117" r="7" fill="#E0F2FE"/>
+    <circle cx="1126" cy="143" r="7" fill="#E0F2FE"/>
+    <rect x="910" y="236" width="28" height="39" rx="5" fill="#38BDF8" fill-opacity="0.55"/>
+    <rect x="952" y="218" width="28" height="57" rx="5" fill="#60A5FA" fill-opacity="0.63"/>
+    <rect x="994" y="226" width="28" height="49" rx="5" fill="#818CF8" fill-opacity="0.7"/>
+    <rect x="1036" y="198" width="28" height="77" rx="5" fill="#A78BFA" fill-opacity="0.76"/>
+    <rect x="1078" y="210" width="28" height="65" rx="5" fill="#C084FC" fill-opacity="0.7"/>
+  </g>
+
+  <text x="68" y="80" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+  <text x="64" y="147" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1">Bibash Gautam</text>
+  <text x="67" y="192" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Data Analytics  •  Business Intelligence  •  Business Analysis</text>
+
+  <g transform="translate(66 224)">
+    <rect width="324" height="42" rx="21" fill="white" fill-opacity="0.09" stroke="white" stroke-opacity="0.2"/>
+    <circle cx="23" cy="21" r="6" fill="#4ADE80"/>
+    <circle cx="23" cy="21" r="11" fill="#4ADE80" fill-opacity="0.16"/>
+    <text x="43" y="27" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Open to opportunities in Canada</text>
+  </g>
+  <text x="67" y="294" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="15">NIAGARA FALLS · ONTARIO · CANADA</text>
+</svg>

@@ -12,7 +12,7 @@
   <a href="https://github.com/BIbash09/Bibash_portfolio/blob/main/public/Bibash_Gautam_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View_CV-7C3AED?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="View resume" />
   </a>
-  <a href="mailto:bibashgautam@.official@gmail.com">
+  <a href="mailto:bibashgautam.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send email" />
   </a>
 </p>
@@ -24,11 +24,11 @@ I am pursuing a **Master of Data Analytics** at the **University of Niagara Fall
 <table>
   <tr>
     <td width="33%" align="center">
-      <strong>🎓 MDA Student</strong><br />
+      <strong> MDA Student</strong><br />
       <sub>Graduate studies in progress</sub>
     </td>
     <td width="33%" align="center">
-      <strong>📊 Analytics &amp; BI</strong><br />
+      <strong>Analytics &amp; BI</strong><br />
       <sub>Data to decision-ready insight</sub>
     </td>
     <td width="33%" align="center">
@@ -43,7 +43,7 @@ I am pursuing a **Master of Data Analytics** at the **University of Niagara Fall
 - Experienced with React, JavaScript, REST APIs, Git, and collaborative Agile workflows
 - Open to entry-level Data Analyst, BI Analyst, Business Analyst, and related opportunities in Canada
 
-## 🧰 Core Toolkit
+## Core Toolkit
 
 ### Data & Analysis
 
@@ -83,7 +83,7 @@ I am pursuing a **Master of Data Analytics** at the **University of Niagara Fall
 
 ## 🚀 Featured Projects
 
-### 🌿 [Air Quality Analytics Dashboard](https://github.com/BIbash09/Air_Quality_Group_7)
+###  [Air Quality Analytics Dashboard](https://github.com/BIbash09/Air_Quality_Group_7)
 
 > Cleans the UCI Air Quality dataset, handles missing-value markers, calculates summary metrics, and visualizes pollutant trends, distributions, and correlations.
 
